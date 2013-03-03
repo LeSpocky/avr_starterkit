@@ -13900,7 +13900,7 @@ Low profile connectors, straight&lt;p&gt;
 <wire x1="119.38" y1="38.1" x2="129.54" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="N$10" class="0">
+<net name="MOSI" class="0">
 <segment>
 <pinref part="IC2" gate="G$1" pin="PB0/PCINT0/AIN0/OC0A/MOSI"/>
 <pinref part="SV2" gate="1" pin="4"/>
